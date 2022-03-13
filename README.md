@@ -1,1 +1,2 @@
 # Syntax-Error
+This is my first repository on Github. My project is based on a music player application. This repository have two source code. One is "MainActivity" which contains all the important programming for the display. And another one is "PlaySong" file which is responsible for the different songs. All the programming of the code, I had done in JAVA language.                                                                                                                                                                                    
